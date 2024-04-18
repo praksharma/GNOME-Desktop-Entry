@@ -20,5 +20,11 @@ For modern dark and light themes use [customtinker](https://github.com/TomSchima
 pip install customtkinter
 ```
 # Snips
+## Legacy theme
+![screenshot](images/legacy_theme.png "Screenshot")
 
-![screenshot](images/screenshot.png "Screenshot")
+## Win XP theme
+![screenshot](images/XP_theme.png "Screenshot")
+
+## OS X theme
+![screenshot](images/OSx_theme.png "Screenshot")
